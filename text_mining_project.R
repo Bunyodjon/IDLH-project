@@ -1,5 +1,6 @@
 library(NLP)
 library(tm)
+# helllo this is my code 
 
 stopwords <- stopwords(kind="en")
 stopwords_german <- stopwords("SMART")
